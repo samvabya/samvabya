@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**samvabya/samvabya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey bro,
+# I'm Samvabya! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I make in Flutter\
+And sometimes in React
+
+And you guys can always go and check out my projects
+[here](https://github.com/samvabyat1).
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samvabyat101.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samvabyasarkar101/)
+
+
+## Support
+
+For support, email samvbyat1@gmail.com.
+
+
+## Authors
+
+- [@samvabyat1](https://github.com/samvabyat1)
+
