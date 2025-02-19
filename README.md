@@ -15,5 +15,3 @@
 
 ## Side Projects
 [<img src="https://img.shields.io/badge/samvabyat1-verzion-whitesmoke?style=for-the-badge">](https://github.com/samvabyat1/verzion)
-[<img src="https://img.shields.io/badge/samvabyat1-nmax-midnightblue?style=for-the-badge">](https://github.com/samvabyat1/nmax)
-[<img src="https://img.shields.io/badge/samvabyat1-portfolio-darkmagenta?style=for-the-badge">](https://github.com/samvabyat1/portf)
