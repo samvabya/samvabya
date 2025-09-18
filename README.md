@@ -6,8 +6,9 @@
 
 ## Featured Apps
 
-[<img width="200" src="https://github.com/user-attachments/assets/7fa56e37-7dcf-492a-a1f6-91d7aa447b75" />
-](https://github.com/samvabya/realm) [<img width="200" src="https://github.com/user-attachments/assets/c8d54faf-798d-40c6-9273-2776145e9495" />
-](https://github.com/samvabya/rethink) [<img width="200" src="https://github.com/user-attachments/assets/a7a940c3-426c-4090-9ff7-498c301b2693" />
-](https://github.com/samvabya/reanote) [<img width="200" src="https://github.com/user-attachments/assets/caa621f3-8c49-41fe-b83b-6d2a7f00756c" />
+[<img width="40%" src="https://github.com/user-attachments/assets/7fa56e37-7dcf-492a-a1f6-91d7aa447b75" />
+](https://github.com/samvabya/realm) [<img width="40%" src="https://github.com/user-attachments/assets/c8d54faf-798d-40c6-9273-2776145e9495" />
+](https://github.com/samvabya/rethink)
+[<img width="40%" src="https://github.com/user-attachments/assets/a7a940c3-426c-4090-9ff7-498c301b2693" />
+](https://github.com/samvabya/reanote) [<img width="40%" src="https://github.com/user-attachments/assets/caa621f3-8c49-41fe-b83b-6d2a7f00756c" />
 ](https://github.com/samvabya/rechat)
