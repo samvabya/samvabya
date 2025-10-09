@@ -8,5 +8,7 @@
 ### 🎶 retune music 
 Free music listening app with new Vibrant UI <br/>as an alternative to dull and boring paid music apps.
 
+<img src="https://repository-images.githubusercontent.com/1061941149/8c53b397-e05d-4697-a587-f356309b762d" alt="Download">
+
   <a href="https://github.com/samvabya/retune/releases/latest"><img src="https://img.shields.io/badge/Download-ff00f6?style=for-the-badge&logo=googleplay" alt="Download"></a>
   <a href="https://github.com/samvabya/retune"><img src="https://img.shields.io/badge/View%20repo-black?style=for-the-badge&logo=github" alt="View repo"></a>
