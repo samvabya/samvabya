@@ -6,7 +6,7 @@
 
 ## Latest
 ### 🎶 retune music 
-Free music listening app with new Vibrant UI <br/>as an alternative to dull and boring paid music apps.
+Free music listening app with new Vibrant UI as an alternative to dull and boring paid music apps.
 
 <a href="https://samvabya.github.io/retune">
 <img src="https://repository-images.githubusercontent.com/1061941149/a297f9b2-0afe-461a-b8d9-625dcfb2b83b" width="500px" alt="Download">
